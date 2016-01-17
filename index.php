@@ -12,7 +12,7 @@ background-color:black;
 display:block;
 position:fixed;
 top:0px;
-
+color:white;
 }
 
 </style>
