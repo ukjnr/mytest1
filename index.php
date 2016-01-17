@@ -14,7 +14,10 @@ position:fixed;
 top:0px;
 color:white;
 }
-
+.mynavbox{width:60px;
+height:60px;
+background-color:grey;
+right:0px;}
 </style>
 </head>
 <body>
